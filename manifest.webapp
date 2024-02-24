@@ -1,9 +1,8 @@
 {
-  "app_hub_id": "2eacfda3-e887-4121-80bc-63ee82fba5e9",
   "appType": "APP",
-  "short_name": "scheduler",
-  "name": "Scheduler",
-  "description": "The Scheduler is an application for managing background jobs in DataOrb. Background jobs can do a number of tasks, such as running analytics, synchronizing data and meta data, or sending a push analysis report. The application provides the ability to create, modify and delete such jobs.",
+  "short_name": "scheduler-pro",
+  "name": "Scheduler Pro",
+  "description": "The Scheduler Pro is an application for managing background jobs in DataOrb. Background jobs can do a number of tasks, such as running analytics, synchronizing data and meta data, or sending a push analysis report. The application provides the ability to create, modify and delete such jobs.",
   "version": "101.3.3",
   "core_app": true,
   "launch_path": "index.html",
